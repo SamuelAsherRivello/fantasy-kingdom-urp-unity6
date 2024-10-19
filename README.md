@@ -23,10 +23,10 @@ I added the package to a fresh Unity 6.0 LTS project for easy consumption. Enjoy
 
 To reduce the repo size, I do not include the builds. But as an FYI, here is my testing progress.
 
-| Platform                                                | Success? | Comments                                  |
-| ------------------------------------------------------- | -------- | ----------------------------------------- |
-| [Windows](https://docs.unity3d.com/Manual/Windows.html) | 🟢       | Builds and runs well.                     |
-| [Web](https://docs.unity3d.com/Manual/webgl.html)       | 🔴       | Builds. Runs with audio but zero visuals. |
+| Platform                                                | Success? | Comments                                                            |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------------------- |
+| [Windows](https://docs.unity3d.com/Manual/Windows.html) | 🟢       | Builds and runs well. <a href="" target="_blank">Download Build</a> |
+| [Web](https://docs.unity3d.com/Manual/webgl.html)       | 🔴       | Builds. Runs with audio but zero visuals.                           |
 | [iOS](https://docs.unity3d.com/Manual/iphone.html)      | --       |
 | [Android](https://docs.unity3d.com/Manual/android.html) | --       |
 
