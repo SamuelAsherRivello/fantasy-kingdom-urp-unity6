@@ -1,10 +1,13 @@
-# Unity Project Template
+# Unity's Fantasy Kingdom (Package, Project, & FPS Counter)
 
 <a href="https://www.youtube.com/watch?v=yggoHVLd01c" target="_blank">
 <img width="600" src="https://img.youtube.com/vi/yggoHVLd01c/maxresdefault.jpg" alt="Best Practices">
 </a>
 
 <BR>
+<BR>
+
+## Overview
 
 This is a <a href="https://unity.com/demos/fantasy-kingdom" target="_blank">Unity Asset Store Package</a> created by Unity, Inc.
 
@@ -12,21 +15,24 @@ I added the package to a fresh Unity 6.0 LTS project for easy consumption. Enjoy
 
 <BR>
 
-**Getting Started: Steps**
 
-1. Download this repo (_.zip or _.git)
+## Getting Started
+
+1. Download this repo (*.zip or *.git)
 1. Download the [Unity Editor](https://store.unity.com/#plans-individual) for this <a href="./Unity/ProjectSettings/ProjectVersion.txt" target="_blank">version</a> or higher.
 1. Open this repo in the Unity Editor
 1. Enjoy
 
-**Builds**
+<BR>
+
+## Builds
 
 To reduce the repo size, I do not include the builds. But as an FYI, here is my testing progress.
 
-| Platform                                                | Success? | Comments                                                            |
-| ------------------------------------------------------- | -------- | ------------------------------------------------------------------- |
-| [Windows](https://docs.unity3d.com/Manual/Windows.html) | 🟢       | Builds and runs well. <a href="" target="_blank">Download Build</a> |
-| [Web](https://docs.unity3d.com/Manual/webgl.html)       | 🔴       | Builds. Runs with audio but zero visuals.                           |
+| Platform                                                | Success? | Comments                                                                                                                                                |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Windows](https://docs.unity3d.com/Manual/Windows.html) | 🟢       | Builds and runs well. <a href="https://drive.google.com/drive/folders/1-5X9LHfM7VK5AIoz7ZIAIyDWn8amEGp1?usp=sharing" target="_blank">Download Build</a> |
+| [Web](https://docs.unity3d.com/Manual/webgl.html)       | 🔴       | Builds. Runs with audio but zero visuals.                                                                                                               |
 | [iOS](https://docs.unity3d.com/Manual/iphone.html)      | --       |
 | [Android](https://docs.unity3d.com/Manual/android.html) | --       |
 
@@ -46,7 +52,3 @@ To reduce the repo size, I do not include the builds. But as an FYI, here is my 
 - Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
 - Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
 - LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
-
-**License**
-
-Provided as-is under <a href="./LICENSE">MIT License</a> | Copyright ™ & © 2006 - 2024 Rivello Multimedia Consulting, LLC
